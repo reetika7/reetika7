@@ -1,4 +1,4 @@
-##                                                                             Hi there 👋, I'm Reetika
+## Hi, I'm Reetika ✨
 
 - 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me: mauryareetika1710@gmail.com
