@@ -1,6 +1,7 @@
-## Hi there 👋, I'm Reetika
+##                                                                             Hi there 👋, I'm Reetika
 
 - 🌱 I’m currently learning JavaScript.
+- 📫 How to reach me: mauryareetika1710@gmail.com
 
 <!--
 **reetika7/reetika7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
