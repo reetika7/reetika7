@@ -1,12 +1,12 @@
 ## Hi, I'm Reetika ✨
 
 - 🌱 I’m currently learning JavaScript.
-- 📫 You can reach me at: mauryareetika1710@gmail.com
+- 📫 You can reach me at: mauryareetika1017@gmail.com
 
 
 ## 🌐 Reach Out:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ReetikaMaurya)  
-[![Email Badge](https://img.shields.io/badge/mauryareetika1710@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mauryareetika1710@gmail.com)
+[![Email Badge](https://img.shields.io/badge/mauryareetika1017@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mauryareetika1017@gmail.com)
 
 
 # 💻 Tech Stuff:
