@@ -5,7 +5,7 @@
 
 
 ## 🌐 Reach Out:
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ReetikaMaurya](https://in.linkedin.com/in/reetika-maurya-b5a00922a))  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/reetika-maurya-b5a00922a)  
 [![Email Badge](https://img.shields.io/badge/mauryareetika1017@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mauryareetika1017@gmail.com)
 
 
